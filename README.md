@@ -1,4 +1,0 @@
-必要变量：
-PROXY_IP
-TR_PASS
-UUID
